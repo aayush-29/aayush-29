@@ -15,6 +15,6 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-![My Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=aayush-29&theme=dark&stats=true)
+![My Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=aayush-29&theme=neon&stats=true&width=700&height=350)
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Hello world)](https://open.spotify.com/user/Hello world)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=aayush.ghosh80@gmail.com)](https://open.spotify.com/user/aayush.ghosh80@gmail.com)
