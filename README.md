@@ -5,6 +5,6 @@
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=aayush-29)
 ![Stats](https://github-readme-stats.vercel.app/api?username=aayush-29&show_icons=true&cache_seconds=86400)
 
-[Isometric contributions embed here]
+![Isometric Contributions](https://isometric-contributions.vercel.app/api/aayush-29)
 [Spotify recently played embed here]
 [Custom anime/stock widgets here]
