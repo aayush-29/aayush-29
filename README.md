@@ -17,7 +17,7 @@ I'm a beginner learning my way through **Python**, currently focused on **data s
 
 - Python
 - (Up next) C
-- (Up next) Java
+- JavaScript
 - MySQL(Database)
 
 ---
