@@ -35,7 +35,11 @@ I'm a beginner learning my way through **Python**, currently focused on **data s
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs                █████████████████████████   100.00 %
+JavaScript   14 mins               ████████████▒░░░░░░░░░░░░   49.29 %
+HTML         11 mins               █████████▓░░░░░░░░░░░░░░░   38.07 %
+Java         2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Python       1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
