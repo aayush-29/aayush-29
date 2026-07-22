@@ -1,7 +1,11 @@
+<div align=center>
+
+
 ### Hi, I'm Aayush 👋
 
-I'm a beginner learning my way through **Python**, currently focused on **data structures and problem solving**.
+## I'm a B.tech Student, currently focused on learning **Web Devlopment and Machine Learning**.
 
+</div>
 ---
 
 ### 🌱 What I'm Doing
@@ -13,14 +17,21 @@ I'm a beginner learning my way through **Python**, currently focused on **data s
 
 ---
 
-### 💻 Tech I'm Learning
-
-- Python
-- (Up next) C
-- JavaScript
-- MySQL(Database)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+
+### 💻 Tools and Databases
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+
+
 
 ### 📫 Reach Me
 
