@@ -6,14 +6,21 @@
 ## I'm a B.tech Student, currently focused on learning **Web Devlopment and Machine Learning**.
 
 </div>
----
+
+### 👋🏻About Me
+
+
+I'm a B.Tech student, expecting to graduate in **2030**, currently looking for a **Software Development** or **Frontend Development** internship.
+
+I am currently building small projects along the way to apply what I learn, I'm currently expanding into **C++**,**data analysis** and **machine learning** and I'm comfortable picking up new tools independently when a project calls for it.
 
 ### 🌱 What I'm Doing
 
-- 📘 Learning Python — currently practicing data structures and problem solving
-- 🎯 Planning to learn **C** and **Java** next
+- 🎯 Planning to learn **C++**
 - 🛠️ Building small projects along the way to apply what I learn
 - 📚 Always open to feedback on my code — I'm here to learn!
+- 🤝 Soft skills: Time Management · Problem Solving · Adaptability · Team Collaboration · Efficient Under Pressure
+- 📍 Delhi, India
 
 ---
 
@@ -29,9 +36,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-
-
 
 ### 📫 Reach Me
 
