@@ -12,7 +12,7 @@
 
 I'm a B.Tech student, expecting to graduate in **2030**, currently looking for a **Software Development** or **Frontend Development** internship.
 
-I am currently building small projects along the way to apply what I learn, I'm currently expanding into **C++**,**data analysis** and **machine learning** and I'm comfortable picking up new tools independently when a project calls for it.
+I am building small projects along the way to apply what I learn, I'm currently expanding into **C++**,**data analysis** and **machine learning** and I'm comfortable picking up new tools independently when a project calls for it.
 
 ### 🌱 What I'm Doing
 
